@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7ad87c82b7a2ed4689c452f2dfc4fdb, type: 3}
+  m_Name: NumbersAnswerBudleDate
+  m_EditorClassIdentifier: 
+  _AnswerDates:
+  - _Identifier: 1
+    _Sprite: {fileID: 1422184923334757970, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 2
+    _Sprite: {fileID: 1808195818850983521, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 3
+    _Sprite: {fileID: -7900951133411543555, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 4
+    _Sprite: {fileID: 2267071060405275165, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 5
+    _Sprite: {fileID: -7398325283844340781, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 6
+    _Sprite: {fileID: -7015292045520539579, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 7
+    _Sprite: {fileID: -675344402919758444, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 8
+    _Sprite: {fileID: 3547489320769246608, guid: de433fb3a506e374fa5f65c4556a0346,
+      type: 3}
+  - _Identifier: 9
+    _Sprite: {fileID: -1155199509967091035, guid: 41ef47075cddb4e4696bd08f7791c0a5,
+      type: 3}
+  - _Identifier: 10
+    _Sprite: {fileID: 4142021021139464533, guid: 732216da780929747b43ffc7140df89d,
+      type: 3}
